@@ -1,0 +1,4 @@
+Ques: What is DBMS? What was the need for DBMS?
+
+Ans: DBMS is a software system that allows users to create, read, update and delete data in a database. A DBMS provides an interface between the user and the database and it manages the storage and retrieval of data.
+There are many reasons why a DBMS is needed. First, a DBMS provides a way to organize and structure data so that it can be easily accessed and managed. Second, a DBMS provides security features to protect data from unauthorized access or modification. Third, a DBMS can help to improve the performance of data access by providing indexing and other optimization techniques. Finally, a DBMS can make it easier to share data between different applications and users.
