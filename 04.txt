@@ -1,0 +1,13 @@
+Ques: Explain 5 challenges of file-based storage system which was tackled by DBMS.
+
+Ans: Some of the challenges which are tackled by DBMS are
+1. Data Redundancy :–
+ Due to the manual storing of data, the same data used to be present in multiple locations using the space in each of the Hard Disk.
+2. Data Protection :–
+ Data protection was very less due to different reasons like Data Redundancy, manual storing of data, easy access of confidential data by unauthorized parties, etc.
+3. Dependence on Data :–
+ Files and information were stored in a certain specific format in files which is hard coded by programmers in languages like C/C++, COBOL, etc. So if any of the file’s format changes then the programmers need to update the code every time and the format of every piece of data stored in that file will be changed, which is a rigorous task for programmers.
+4. Integrity problems :-
+Integrity means reliability and accuracy of data. The stored data must satisfy certain types of consistency constraints. For example, Roll No and Marks of students should beanumeric value. It is very difficult to apply these constraints on files in the file based storage system.
+5. Program maintenance :-
+The program developed in file based storage system is difficult to maintain. Most of the budget may be spent on maintenance. It makes it difficult to develop new applications.
