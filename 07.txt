@@ -1,0 +1,13 @@
+Ques: Explain 3 schema architecture along with its advantages.
+
+Ans: A 3-schema architecture is a data architecture that consists of three distinct schemas: the conceptual schema, the logical schema, and the physical schema.
+The conceptual schema is the highest level of abstraction and describes the data in terms of the business domain. It is independent of any particular implementation and is used to communicate the meaning of the data to users.
+The logical schema is a more detailed description of the data that is closer to the implementation. It defines the relationships between the data entities and the rules that govern the data.
+The physical schema is the lowest level of abstraction and describes the data in terms of the specific storage system. It defines the physical layout of the data and the access methods that are used to retrieve the data.
+The 3-schema architecture has a number of advantages, including:
+Data independence:-
+The conceptual schema is independent of the logical and physical schemas, which means that changes to the implementation of the data do not require changes to the conceptual schema.
+Extensibility:-
+ The 3-schema architecture is extensible, which means that it can be easily expanded to accommodate new data requirements.
+Reusability:-
+ The logical and physical schemas can be reused across multiple applications, which reduces development time and costs
