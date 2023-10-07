@@ -1,0 +1,3 @@
+Ques: What is the significance of Data Modelling and explain the types of data modelling?
+
+Ans: Data modelling is the process of creating a data model that represents the data of an organization. A data model is a set of concepts that describe the data that an organization needs to manage. Data modelling is important because provides a way to organize and structure data so that it can be easily understood and used.
