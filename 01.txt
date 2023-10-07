@@ -1,0 +1,4 @@
+Ques: What is Database? Explain with an example on why should we need a database?
+
+Ans: Database is a databse management system that allows you to create, read, update and delete data from a database. It is particularly useful when dealing with large amounts of data or complex relationships between data entities.
+For example, consider a blog application where users can create and manage blog posts. Instead of storing all the blog posts in memory, which would be inefficient and limit the number of blog posts that can be created, you can use a databse to store the blog posts.
