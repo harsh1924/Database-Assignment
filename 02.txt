@@ -1,0 +1,3 @@
+Ques: Write a short note on File Base Storage System. Explain the major challenges of a File-based storage system.
+
+Ans: A File Based Storage System is a type of storage system that utilizes a hierarchical structure to optimize data access and storage efficiency. The major challenges in file based storage system include data fragmentation, data migration and data consistency.
