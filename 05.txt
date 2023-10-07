@@ -1,0 +1,13 @@
+Ques: List out the different types of classification in DBMS and explain them in depth.
+
+Ans: The most common types of classification are:-
+1. Hierarchical databases:-
+ In a hierarchical database, data is organized in a tree-like structure, with each record having a parent record and any number of child records. This type of database is easy to understand and implement, but it can be difficult to query and update data.
+2. Network databases:-
+ In a network database, data is organized in a network-like structure, with each record having any number of parent records and child records. This type of database is more flexible than a hierarchical database, but it can be more difficult to understand and implement.
+3. Relational databases:-
+ In a relational database, data is organized in tables, with each table having a set of columns and rows. This type of database is the most common type of database, and it is easy to understand, implement, and query.
+4. Object-oriented databases:-
+ In an object-oriented database, data is organized in objects, which are entities that have both data and methods. This type of database is more flexible than a relational database, but it can be more difficult to understand and implement.
+5. NoSQL databases:-
+ NoSQL databases are a type of database that does not use the traditional relational model. NoSQL databases are designed to handle large amounts of data and to be able to scale easily.
